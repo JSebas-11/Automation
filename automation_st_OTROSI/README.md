@@ -19,6 +19,8 @@ Web mini app developed with [Streamlit](https://streamlit.io/) for a **specific 
 - Sección de Format en la cual se muestran las variables y el template (como texto plano), permitiendo descargar el template como .docx con todos sus estilos, tablas, etc.  
 - Sección de Data en la cual, en dos **expander** con **DataFrame**, se muestran los datos sin procesar y los datos finales ya limpios.  
 
+<br>
+
 - Load contracts and template into folder DataSources, where they are cleaned to match the required variables.  
 - Interactive visualization of contract objects that will be generated in a **DataFrame**.  
 - Automatic destination path validation.  
@@ -71,20 +73,20 @@ Web mini app developed with [Streamlit](https://streamlit.io/) for a **specific 
 
 ## GLOBAL INTERFACE
 
-![Main](screenshots/interface.png)
+![Main](_screenshots/interface.png)
 
 ## MAIN SECTION
 
-![Workspace](screenshots/mainSection.png)
+![Workspace](_screenshots/mainSection.png)
 
 ## METRICS SECTION
 
-![Metrics](screenshots/metricsSection.png)
+![Metrics](_screenshots/metricsSection.png)
 
 ## FORMAT SECTION
 
-![Format](screenshots/formatSection.png)
+![Format](_screenshots/formatSection.png)
 
 ## DATA SECTION
 
-![Data](screenshots/datasourcesSection.png)
+![Data](_screenshots/datasourcesSection.png)
